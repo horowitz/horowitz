@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My website](danielhorowitz.io]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My cat's name is Gandalf
--->
