@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Functional programming
 - 💬 Ask me about Anything
-- 📫 How to reach me: [My website](danielhorowitz.io)
+- 📫 How to reach me: https://danielhorowitz.io
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My cat's name is Gandalf
