@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel Horowitz M.sc in A.I 
+I'm Daniel Horowitz MSc in A.I 
 🇧🇷🇮🇱🇪🇸
 
 - 🏦 I’m currently working @ N26 as Android tech lead
