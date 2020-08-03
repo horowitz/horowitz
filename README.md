@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Daniel Horowitz 
+### Hi there 👋 I'm Daniel Horowitz
 
 Software developer / MSc in A.I 
 🇧🇷🇮🇱🇪🇸
