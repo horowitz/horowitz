@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Daniel Horowitz Software developer / MSc in A.I 
+I'm Daniel Horowitz 
+
+Software developer / MSc in A.I 
 🇧🇷🇮🇱🇪🇸
 
 [![twitter badge](https://img.shields.io/badge/twitter-horowitzd-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/horowitzd)
