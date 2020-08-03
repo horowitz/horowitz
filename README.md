@@ -8,6 +8,6 @@ I'm Daniel Horowitz Software developer / MSc in A.I
 [![medium badge](https://img.shields.io/badge/blog-medium-12100E?style=flat-square&logo=medium)](https://medium.com/@danielhorowitzz)
 [![instagram badge](https://img.shields.io/badge/instagram-danielhorowitz-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/danielhorowitz)
 
-- 🏦 I’m currently working @ N26 as Android tech lead
+- 🏦 I’m currently working @ N26 as Android Tech Lead
 - 📫 How to reach me: https://danielhorowitz.io
 - 💬 Ask me about Anything
