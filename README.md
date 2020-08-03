@@ -1,3 +1,4 @@
+![cover image](https://user-images.githubusercontent.com/3278232/89234006-35828b00-d5eb-11ea-8580-5ad0aaace13d.jpg)
 ### Hi there 👋 I'm Daniel Horowitz
 
 Software developer / MSc in A.I 
